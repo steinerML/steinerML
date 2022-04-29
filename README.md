@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @steinerML</h1>
-<h3 align="center">Mechanical Engineer turned Machine Learning Engineer (HBO in Pythom programming + HBO in Machine Learning)</h3>
+<h3 align="center">BEng in Mechanical Engineering turned Machine Learning Engineer (HBO in Pythom programming + HBO in Machine Learning)</h3>
 
 - 🔭 I’m currently working on **ML algorithms**
 
