@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Machine Learning algorithms**
 
-- 🌱 I’m currently studying **HBO in Python Programming and HBO in Machine Learning in The Netherlands.**
+- 🌱 I’m currently studying **HBO in Python Programming + HBO in Machine Learning.**
 
-- 💬 Ask me about **Renewable energies, Financial markets, Exchange Traded Funds, Stock markets & Crypto!**
+- 💬 Ask me about **Financial markets, Exchange Traded Funds, Stock markets, Value investing and Monetary policies**
 
 - ⚡ Fun fact **I eat guacamole 24/7**
 
