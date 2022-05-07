@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **HBO in Python Programming + HBO in Machine Learning.**
 
-- 💬 Ask me about **Financial markets, Real Estate Cycle, Real Estate price formation, ETFs, Stock markets, Value investing and Monetary policies**
+- 💬 Ask me about **Real Estate Cycle, Real Estate price formation, ETFs, Stock markets, Value investing, FIRE**
 
 - ⚡ Fun fact **I eat guacamole 24/7**
 
