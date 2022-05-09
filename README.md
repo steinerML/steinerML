@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @steinerML</h1>
+<h1 align="center">Hi there 👋, I'm @steinerML</h1>
 <h3 align="center">Mechanical Engineer (BEng) | Machine Learning Engineer | Financial Analyst  </br>(HBO in Pythom programming + HBO in Machine Learning)</h3>
 
 - 🔭 I’m currently working on **Machine Learning algorithms**
