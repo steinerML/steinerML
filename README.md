@@ -1,11 +1,11 @@
 <h1 align="center">Hola amigo 👋, I'm @steinerML</h1>
 <h3 align="center">Mechanical Engineer (BEng) | Machine Learning Engineer | Financial Analyst  </br>(HBO in Pythom programming + HBO in Machine Learning)</h3>
 
-- 🔭 I’m currently working on: **Machine Learning algorithms.**
+- 🔭 I’m currently working on: **Computer Vision, Deep Neural Networks &Machine Learning algorithms.**
 
 - 🌱 I’m currently studying: **HBO in Python Programming + HBO in Machine Learning.**
 
-- 💬 Ask me about: **Real Estate Cycle, Real Estate price formation, ETFs, Stock markets, Value investing, FIRE.**
+- 💬 Ask me about: **Real Estate Cycle, Real Estate price formation, ETFs, Stock markets and FIRE**
 
 - ⚡ Fun fact: **I eat guacamole and pizza 24/7.**
 
