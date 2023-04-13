@@ -1,5 +1,5 @@
 <h1 align="center">Hola amigo 👋</h1>
-<h3 align="center">Aspiring Computer Vision Engineer | Mechanical Engineer (BEng) | HBO in Python | HBO in Machine Learning (currently) | Aspiring OpenCV Expert  |</br></h3>
+<h3 align="center">(Aspiring) Computer Vision Engineer | Mechanical Engineer (BEng) | HBO in Python | HBO in Machine Learning (currently) | Aspiring OpenCV Expert  |</br></h3>
 
 - 🔭 Currently working on: **Computer Vision, Deep Neural Networks, Object Detection & Machine Learning algorithms.**
 
