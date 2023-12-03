@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on: **Data Pipelines (CI/CD), MLOps, Computer Vision, Deep Neural Networks, Object Detection & Machine Learning algorithms.**
 
-- 🌱 Currently studying: **HBO in Machine Learning @ LOI Leiden..**
+- 🌱 Currently studying: **HBO in Machine Learning @ LOI Leiden.**
 
 - 💬 Topics I like: **MLOps, Data Pipelines, Computer Vision, Neural Networks, Optics, Image Recognition, Detection Algorithms.**
 
