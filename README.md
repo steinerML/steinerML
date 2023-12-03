@@ -1,5 +1,5 @@
 <h1 align="center">Hola amigo 👋</h1>
-<h3 align="center"> AI Engineer</br></h3>
+<h3 align="center"> I'm an AI Engineer </br></h3>
 
 - 🔭 Currently working on: **Data Pipelines (CI/CD), MLOps, Computer Vision, Deep Neural Networks, Object Detection & Machine Learning algorithms.**
 
