@@ -5,7 +5,7 @@
 
 - 🌱 Currently studying: **HBO in Machine Learning.**
 
-- 💬 Topics I like: **Computer Vision, Neural Networks, Optics, Image Recognition, Detection Algorithms.**
+- 💬 Topics I like: **MLOps, Data Pipelines, Computer Vision, Neural Networks, Optics, Image Recognition, Detection Algorithms.**
 
 - ⚡ Fun fact: **I eat guacamole and pizza 24/7.**
 
