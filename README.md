@@ -1,5 +1,5 @@
 <h1 align="center">Hola amigo 👋</h1>
-<h3 align="center"> 👋 Hi there! I'm an AI Engineer transitioning towards MLOps engineer with a passion for deploying and managing machine learning solutions. At customer sites, I excel in orchestrating end-to-end processes to streamline the deployment, monitoring, and maintenance of data pipelines and machine learning models. By executing these tasks effectively, I aim to empower organizations by seamlessly deploying and managing machine learning solutions, enabling them to unlock the full potential of their data and make informed, data-driven decisions.</br></h3>
+<h3 align="center"> 👋 Hi there!</h3>br>I'm an AI Engineer transitioning towards MLOps engineer with a passion for deploying and managing ML solutions. At customer sites, I excel in orchestrating end-to-end processes to streamline the deployment, monitoring, and maintenance of data pipelines and ML models. By executing these tasks effectively, I aim to empower organizations and enable them to unlock the full potential of their data and make informed, data-driven decisions.</br></h3>
 
 - 🔭 Currently working on: **Data Pipelines (CI/CD), MLOps, Computer Vision, Deep Neural Networks, Object Detection & Machine Learning algorithms.**
 
