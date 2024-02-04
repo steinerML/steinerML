@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">Machine Learning Engineer with a keen interest in MLOps, computer vision and AWS cloud computing. 
+<h3 align="center"><h3>Machine Learning Engineer with a keen interest in MLOps, computer vision and AWS cloud computing. 
 My goal is to leverage cutting-edge technologies to drive innovation and enhance the performance of AI-driven solutions. 
 
 With a strong foundation in machine learning algorithms I thrive on solving complex problems and transforming raw data into actionable insights. My hands-on experience includes developing ML models, optimizing pipelines (CI/CD) and enabling efficient data processing.
