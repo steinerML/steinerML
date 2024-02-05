@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center"><h3>Machine Learning Engineer with a keen interest in MLOps, computer vision and AWS cloud computing.
-<br>I'm also freelancing within the financial sector with several ICVC (investment company with variable capital) in the Euro area. </h3>
+<br>I'm also freelancing within the financial sector with several ICVCs (investment companies with variable capital) in the Euro area. </h3>
 
 - 🔭 Currently working on: **Data Pipelines (CI/CD), MLOps, Computer Vision, Deep Neural Networks, Object Detection & Machine Learning algorithms.**
 
