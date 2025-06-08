@@ -1,14 +1,31 @@
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="center"><h3>Machine Learning Engineer with a keen interest in MLOps, computer vision and AWS cloud computing.
-<br> </h3>
+# 👋 Hi, I'm SteinerML
 
-- 🔭 Currently working on: **Data Pipelines (CI/CD), MLOps, Computer Vision, Deep Neural Networks, Object Detection & Machine Learning algorithms.**
+Welcome to my GitHub!
 
-- 🌱 Currently studying: **AWS**
+I'm a relentless problem-solver and automation enthusiast, passionate about building robust, future-proof data extraction and AI-driven solutions. My approach is defined by a deep attention to detail, a drive for maintainability, and a love for tackling the "hard parts" of real-world automation.
 
-- 💬 Topics I like: **MLOps, Data Pipelines, Computer Vision, Neural Networks, Stocks, Finance.**
+## 🏆 What Sets Me Apart
 
-- ⚡ Fun fact: **I eat guacamole and pizza 24/7.**
+- **Precision & Pickiness:** I ask the tough questions, challenge assumptions, and never settle for "good enough." My solutions are designed to handle edge cases and future changes.
+- **Technical Depth:** I dive deep into extraction logic, robust chunking, and dynamic association—always comparing and improving algorithms for reliability.
+- **Documentation & Communication:** I believe in clear, visual documentation (markdown tables, ASCII diagrams, Q&A) to make complex processes transparent and defensible.
+- **Performance & Realism:** I synchronize timing logic for human-like automation, measure performance, and ensure workflows are both efficient and natural.
+- **Modularity & Maintainability:** My code is modular, reusable, and easy to refactor—ready for whatever comes next.
 
-<h3 align="left">Stuff I like:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>
+## 🛠️ Tech Stack & Interests
+
+- **Python** (Selenium, BeautifulSoup, regex, data parsing)
+- **Automation & Web Scraping**
+- **AI & NLP** (prompt engineering, LLM integration)
+- **Data Engineering** (chunking, cropping, dynamic extraction)
+- **Testing, Refactoring, and Performance Measurement**
+
+## 💡 What Drives Me
+
+- Building resilient, adaptable code for messy, real-world data
+- Making complex automation workflows robust and maintainable
+- Collaborating on advanced extraction, AI, and automation challenges
+
+---
+
+If you value precision, clarity, and robust engineering, you'll feel right at home here!
